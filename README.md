@@ -3,7 +3,7 @@
 
 1. Unity Portfolio (궁수의 전설 모작):   https://github.com/chldlwns12/Unity_Portfolio.git
 
-2. WinAPI 2DGame Portfolio (스컬 모작):            https://github.com/chldlwns12/Skull.git
+2. WinAPI 2DGame Portfolio (스컬 모작):   https://github.com/chldlwns12/Skull.git
 
 포트폴리오 외의 자료
 
